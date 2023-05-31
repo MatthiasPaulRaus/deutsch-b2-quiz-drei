@@ -52,7 +52,7 @@ const QuestionsList = [
         question:"Wer ohne Trauschein leben will,",
         answersList: [
             {answer:"hätte ja als Single gelebt.", isCorrect:false},
-            {answer:"der kann ja Single bleiben.", isCorrect:true},
+            {answer:"muss trotzdem nicht Single sein.", isCorrect:true},
             {answer:"müsste daher Single werden.", isCorrect:false},
         ]
     },{
