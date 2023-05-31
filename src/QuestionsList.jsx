@@ -82,7 +82,7 @@ const QuestionsList = [
         question:"Auf Fleisch ganz zu verzichten,",
         answersList: [
             {answer:"ist bei Veganern nur teilweise akzeptabel.", isCorrect:false},
-            {answer:"sei die Absicht der Vegetarier.", isCorrect:true},
+            {answer:"ist für Vegetarier selbstverständlich.", isCorrect:true},
             {answer:"kommt für Veganer gar nicht infrage.", isCorrect:false},
         ]
     },{
